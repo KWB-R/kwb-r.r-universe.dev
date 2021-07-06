@@ -1,0 +1,274 @@
+[
+  {
+    "package": "algoliar",
+    "url": "https://github.com/KWB-R/algoliar"
+  },
+  {
+    "package": "aquanes.report",
+    "url": "https://github.com/KWB-R/aquanes.report"
+  },
+  {
+    "package": "dwc.ar4gw",
+    "url": "https://github.com/KWB-R/dwc.ar4gw"
+  },
+  {
+    "package": "dwc.wells",
+    "url": "https://github.com/KWB-R/dwc.wells"
+  },
+  {
+    "package": "fakin.path.app",
+    "url": "https://github.com/KWB-R/fakin.path.app"
+  },
+  {
+    "package": "fhpredict",
+    "url": "https://github.com/KWB-R/fhpredict"
+  },
+  {
+    "package": "ibathwater",
+    "url": "https://github.com/KWB-R/ibathwater"
+  },
+  {
+    "package": "kwb.abimo",
+    "url": "https://github.com/KWB-R/kwb.abimo"
+  },
+  {
+    "package": "kwb.base",
+    "url": "https://github.com/KWB-R/kwb.base"
+  },
+  {
+    "package": "kwb.budget",
+    "url": "https://github.com/KWB-R/kwb.budget"
+  },
+  {
+    "package": "kwb.code",
+    "url": "https://github.com/KWB-R/kwb.code"
+  },
+  {
+    "package": "kwb.datetime",
+    "url": "https://github.com/KWB-R/kwb.datetime"
+  },
+  {
+    "package": "kwb.db",
+    "url": "https://github.com/KWB-R/kwb.db"
+  },
+  {
+    "package": "kwb.default",
+    "url": "https://github.com/KWB-R/kwb.default"
+  },
+  {
+    "package": "kwb.demeau",
+    "url": "https://github.com/KWB-R/kwb.demeau"
+  },
+  {
+    "package": "kwb.dwa.m150",
+    "url": "https://github.com/KWB-R/kwb.dwa.m150"
+  },
+  {
+    "package": "kwb.dwd",
+    "url": "https://github.com/KWB-R/kwb.dwd"
+  },
+  {
+    "package": "kwb.en13508.2",
+    "url": "https://github.com/KWB-R/kwb.en13508.2"
+  },
+  {
+    "package": "kwb.endnote",
+    "url": "https://github.com/KWB-R/kwb.endnote"
+  },
+  {
+    "package": "kwb.event",
+    "url": "https://github.com/KWB-R/kwb.event"
+  },
+  {
+    "package": "kwb.fakin",
+    "url": "https://github.com/KWB-R/kwb.fakin"
+  },
+  {
+    "package": "kwb.file",
+    "url": "https://github.com/KWB-R/kwb.file"
+  },
+  {
+    "package": "kwb.flusshygiene",
+    "url": "https://github.com/KWB-R/kwb.flusshygiene"
+  },
+  {
+    "package": "kwb.flusshygiene.app",
+    "url": "https://github.com/KWB-R/kwb.flusshygiene.app"
+  },
+  {
+    "package": "kwb.geosalz",
+    "url": "https://github.com/KWB-R/kwb.geosalz"
+  },
+  {
+    "package": "kwb.hantush",
+    "url": "https://github.com/KWB-R/kwb.hantush"
+  },
+  {
+    "package": "kwb.heatsine",
+    "url": "https://github.com/KWB-R/kwb.heatsine"
+  },
+  {
+    "package": "kwb.heatsine.opencpu",
+    "url": "https://github.com/KWB-R/kwb.heatsine.opencpu"
+  },
+  {
+    "package": "kwb.infoworks",
+    "url": "https://github.com/KWB-R/kwb.infoworks"
+  },
+  {
+    "package": "kwb.kuras.db",
+    "url": "https://github.com/KWB-R/kwb.kuras.db"
+  },
+  {
+    "package": "kwb.lca",
+    "url": "https://github.com/KWB-R/kwb.lca"
+  },
+  {
+    "package": "kwb.logger",
+    "url": "https://github.com/KWB-R/kwb.logger"
+  },
+  {
+    "package": "kwb.matomo",
+    "url": "https://github.com/KWB-R/kwb.matomo"
+  },
+  {
+    "package": "kwb.ml",
+    "url": "https://github.com/KWB-R/kwb.ml"
+  },
+  {
+    "package": "kwb.monitoring",
+    "url": "https://github.com/KWB-R/kwb.monitoring"
+  },
+  {
+    "package": "kwb.nextcloud",
+    "url": "https://github.com/KWB-R/kwb.nextcloud"
+  },
+  {
+    "package": "kwb.odm",
+    "url": "https://github.com/KWB-R/kwb.odm"
+  },
+  {
+    "package": "kwb.ogre",
+    "url": "https://github.com/KWB-R/kwb.ogre"
+  },
+  {
+    "package": "kwb.ogre.model",
+    "url": "https://github.com/KWB-R/kwb.ogre.model"
+  },
+  {
+    "package": "kwb.orcid",
+    "url": "https://github.com/KWB-R/kwb.orcid"
+  },
+  {
+    "package": "kwb.pathdict",
+    "url": "https://github.com/KWB-R/kwb.pathdict"
+  },
+  {
+    "package": "kwb.pilot",
+    "url": "https://github.com/KWB-R/kwb.pilot"
+  },
+  {
+    "package": "kwb.pkgbuild",
+    "url": "https://github.com/KWB-R/kwb.pkgbuild"
+  },
+  {
+    "package": "kwb.pkgstatus",
+    "url": "https://github.com/KWB-R/kwb.pkgstatus"
+  },
+  {
+    "package": "kwb.plot",
+    "url": "https://github.com/KWB-R/kwb.plot"
+  },
+  {
+    "package": "kwb.prep",
+    "url": "https://github.com/KWB-R/kwb.prep"
+  },
+  {
+    "package": "kwb.pubs",
+    "url": "https://github.com/KWB-R/kwb.pubs"
+  },
+  {
+    "package": "kwb.python",
+    "url": "https://github.com/KWB-R/kwb.python"
+  },
+  {
+    "package": "kwb.qmra",
+    "url": "https://github.com/KWB-R/kwb.qmra"
+  },
+  {
+    "package": "kwb.quantum",
+    "url": "https://github.com/KWB-R/kwb.quantum"
+  },
+  {
+    "package": "kwb.read",
+    "url": "https://github.com/KWB-R/kwb.read"
+  },
+  {
+    "package": "kwb.readxl",
+    "url": "https://github.com/KWB-R/kwb.readxl"
+  },
+  {
+    "package": "kwb.resilience",
+    "url": "https://github.com/KWB-R/kwb.resilience"
+  },
+  {
+    "package": "kwb.satellite",
+    "url": "https://github.com/KWB-R/kwb.satellite"
+  },
+  {
+    "package": "kwb.site",
+    "url": "https://github.com/KWB-R/kwb.site"
+  },
+  {
+    "package": "kwb.svn",
+    "url": "https://github.com/KWB-R/kwb.svn"
+  },
+  {
+    "package": "kwb.swmm",
+    "url": "https://github.com/KWB-R/kwb.swmm"
+  },
+  {
+    "package": "kwb.test",
+    "url": "https://github.com/KWB-R/kwb.test"
+  },
+  {
+    "package": "kwb.umberto",
+    "url": "https://github.com/KWB-R/kwb.umberto"
+  },
+  {
+    "package": "kwb.utils",
+    "url": "https://github.com/KWB-R/kwb.utils"
+  },
+  {
+    "package": "kwb.vs2dh",
+    "url": "https://github.com/KWB-R/kwb.vs2dh"
+  },
+  {
+    "package": "kwb.wtaq",
+    "url": "https://github.com/KWB-R/kwb.wtaq"
+  },
+  {
+    "package": "pkgmeta",
+    "url": "https://github.com/KWB-R/pkgmeta"
+  },
+  {
+    "package": "qmra.db",
+    "url": "https://github.com/KWB-R/qmra.db"
+  },
+  {
+    "package": "r2q",
+    "url": "https://github.com/KWB-R/r2q"
+  },
+  {
+    "package": "sema.berlin.utils",
+    "url": "https://github.com/KWB-R/sema.berlin.utils"
+  },
+  {
+    "package": "urbanAnnualRunoff",
+    "url": "https://github.com/KWB-R/urbanAnnualRunoff"
+  },
+  {
+    "package": "wasserportal",
+    "url": "https://github.com/KWB-R/wasserportal"
+  }
+]
