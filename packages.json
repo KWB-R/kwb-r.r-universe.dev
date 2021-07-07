@@ -28,6 +28,10 @@
     "url": "https://github.com/KWB-R/ibathwater"
   },
   {
+    "package": "keys.lid",
+    "url": "https://github.com/KWB-R/keys.lid"
+  },
+  {
     "package": "kwb.abimo",
     "url": "https://github.com/KWB-R/kwb.abimo"
   },
