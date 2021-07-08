@@ -48,6 +48,10 @@
     "url": "https://github.com/KWB-R/kwb.code"
   },
   {
+    "package": "kwb.context",
+    "url": "https://github.com/KWB-R/kwb.context"
+  },
+  {
     "package": "kwb.datetime",
     "url": "https://github.com/KWB-R/kwb.datetime"
   },
