@@ -36,6 +36,10 @@
     "url": "https://github.com/KWB-R/kwb.abimo"
   },
   {
+    "package": "kwb.barplot",
+    "url": "https://github.com/KWB-R/kwb.barplot"
+  },
+  {
     "package": "kwb.base",
     "url": "https://github.com/KWB-R/kwb.base"
   },
@@ -74,6 +78,10 @@
   {
     "package": "kwb.dwd",
     "url": "https://github.com/KWB-R/kwb.dwd"
+  },
+  {
+    "package": "kwb.dygraph",
+    "url": "https://github.com/KWB-R/kwb.dygraph"
   },
   {
     "package": "kwb.en13508.2",
@@ -238,6 +246,10 @@
   {
     "package": "kwb.test",
     "url": "https://github.com/KWB-R/kwb.test"
+  },
+  {
+    "package": "kwb.ucode",
+    "url": "https://github.com/KWB-R/kwb.ucode"
   },
   {
     "package": "kwb.umberto",
