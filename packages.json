@@ -248,6 +248,10 @@
     "url": "https://github.com/KWB-R/kwb.test"
   },
   {
+    "package": "kwb.twitter",
+    "url": "https://github.com/KWB-R/kwb.twitter"
+  },
+  {
     "package": "kwb.ucode",
     "url": "https://github.com/KWB-R/kwb.ucode"
   },
