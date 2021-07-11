@@ -268,6 +268,10 @@
     "url": "https://github.com/KWB-R/kwb.utils"
   },
   {
+    "package": "kwb.virtualdub",
+    "url": "https://github.com/KWB-R/kwb.virtualdub"
+  },
+  {
     "package": "kwb.vs2dh",
     "url": "https://github.com/KWB-R/kwb.vs2dh"
   },
