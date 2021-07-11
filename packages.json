@@ -116,6 +116,10 @@
     "url": "https://github.com/KWB-R/kwb.geosalz"
   },
   {
+    "package": "kwb.graph",
+    "url": "https://github.com/KWB-R/kwb.graph"
+  },
+  {
     "package": "kwb.hantush",
     "url": "https://github.com/KWB-R/kwb.hantush"
   },
@@ -166,6 +170,10 @@
   {
     "package": "kwb.odm",
     "url": "https://github.com/KWB-R/kwb.odm"
+  },
+  {
+    "package": "kwb.odmx",
+    "url": "https://github.com/KWB-R/kwb.odmx"
   },
   {
     "package": "kwb.ogre",
@@ -294,6 +302,10 @@
   {
     "package": "sema.berlin.utils",
     "url": "https://github.com/KWB-R/sema.berlin.utils"
+  },
+  {
+    "package": "universe",
+    "url": "https://github.com/KWB-R/universe"
   },
   {
     "package": "urbanAnnualRunoff",
