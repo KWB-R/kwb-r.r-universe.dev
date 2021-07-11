@@ -132,6 +132,10 @@
     "url": "https://github.com/KWB-R/kwb.infoworks"
   },
   {
+    "package": "kwb.iview",
+    "url": "https://github.com/KWB-R/kwb.iview"
+  },
+  {
     "package": "kwb.kuras.db",
     "url": "https://github.com/KWB-R/kwb.kuras.db"
   },
