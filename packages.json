@@ -168,6 +168,10 @@
     "url": "https://github.com/KWB-R/kwb.odm"
   },
   {
+    "package": "kwb.odmx",
+    "url": "https://github.com/KWB-R/kwb.odmx"
+  },
+  {
     "package": "kwb.ogre",
     "url": "https://github.com/KWB-R/kwb.ogre"
   },
