@@ -304,10 +304,6 @@
     "url": "https://github.com/KWB-R/sema.berlin.utils"
   },
   {
-    "package": "universe",
-    "url": "https://github.com/KWB-R/universe"
-  },
-  {
     "package": "urbanAnnualRunoff",
     "url": "https://github.com/KWB-R/urbanAnnualRunoff"
   },
