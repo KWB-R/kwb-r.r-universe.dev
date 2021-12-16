@@ -100,6 +100,10 @@
     "url": "https://github.com/KWB-R/kwb.fakin"
   },
   {
+    "package": "kwb.fcr",
+    "url": "https://github.com/KWB-R/kwb.fcr"
+  },
+  {
     "package": "kwb.file",
     "url": "https://github.com/KWB-R/kwb.file"
   },
@@ -154,6 +158,10 @@
   {
     "package": "kwb.matomo",
     "url": "https://github.com/KWB-R/kwb.matomo"
+  },
+  {
+    "package": "kwb.misa",
+    "url": "https://github.com/KWB-R/kwb.misa"
   },
   {
     "package": "kwb.ml",
