@@ -12,16 +12,16 @@
     "url": "https://github.com/KWB-R/dwc.ar4gw"
   },
   {
-    "package": "dwc.wells",
-    "url": "https://github.com/KWB-R/dwc.wells"
-  },
-  {
     "package": "fakin.path.app",
     "url": "https://github.com/KWB-R/fakin.path.app"
   },
   {
     "package": "fhpredict",
     "url": "https://github.com/KWB-R/fhpredict"
+  },
+  {
+    "package": "flextreat.hydrus1d",
+    "url": "https://github.com/KWB-R/flextreat.hydrus1d"
   },
   {
     "package": "ibathwater",
