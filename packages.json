@@ -12,6 +12,10 @@
     "url": "https://github.com/KWB-R/dwc.ar4gw"
   },
   {
+    "package": "dwc.wells",
+    "url": "https://github.com/KWB-R/dwc.wells"
+  },
+  {
     "package": "fakin.path.app",
     "url": "https://github.com/KWB-R/fakin.path.app"
   },
