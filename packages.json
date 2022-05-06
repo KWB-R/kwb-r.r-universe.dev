@@ -28,6 +28,10 @@
     "url": "https://github.com/KWB-R/flextreat.hydrus1d"
   },
   {
+    "package": "geosalz.phreeqc",
+    "url": "https://github.com/KWB-R/geosalz.phreeqc"
+  },
+  {
     "package": "ibathwater",
     "url": "https://github.com/KWB-R/ibathwater"
   },
