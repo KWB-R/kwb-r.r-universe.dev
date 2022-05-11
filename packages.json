@@ -144,6 +144,10 @@
     "url": "https://github.com/KWB-R/kwb.heatsine.opencpu"
   },
   {
+    "package": "kwb.hydrus1d",
+    "url": "https://github.com/KWB-R/kwb.hydrus1d"
+  },
+  {
     "package": "kwb.infoworks",
     "url": "https://github.com/KWB-R/kwb.infoworks"
   },
