@@ -148,6 +148,10 @@
     "url": "https://github.com/KWB-R/kwb.hydrus1d"
   },
   {
+    "package": "kwb.impetus",
+    "url": "https://github.com/KWB-R/kwb.impetus"
+  },
+  {
     "package": "kwb.infoworks",
     "url": "https://github.com/KWB-R/kwb.infoworks"
   },
