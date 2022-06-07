@@ -176,8 +176,24 @@
     "url": "https://github.com/KWB-R/kwb.matomo"
   },
   {
+    "package": "kwb.mia.evalCritO2",
+    "url": "https://github.com/KWB-R/kwb.mia.evalCritO2"
+  },
+  {
+    "package": "kwb.mia.iw",
+    "url": "https://github.com/KWB-R/kwb.mia.iw"
+  },
+  {
+    "package": "kwb.miacso",
+    "url": "https://github.com/KWB-R/kwb.miacso"
+  },
+  {
     "package": "kwb.misa",
     "url": "https://github.com/KWB-R/kwb.misa"
+  },
+  {
+    "package": "kwb.misc",
+    "url": "https://github.com/KWB-R/kwb.misc"
   },
   {
     "package": "kwb.ml",
