@@ -160,6 +160,10 @@
     "url": "https://github.com/KWB-R/kwb.iview"
   },
   {
+    "package": "kwb.kuras",
+    "url": "https://github.com/KWB-R/kwb.kuras"
+  },
+  {
     "package": "kwb.kuras.db",
     "url": "https://github.com/KWB-R/kwb.kuras.db"
   },
@@ -266,6 +270,10 @@
   {
     "package": "kwb.quantum",
     "url": "https://github.com/KWB-R/kwb.quantum"
+  },
+  {
+    "package": "kwb.rain",
+    "url": "https://github.com/KWB-R/kwb.rain"
   },
   {
     "package": "kwb.read",
