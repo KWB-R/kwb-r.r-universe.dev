@@ -80,6 +80,10 @@
     "url": "https://github.com/KWB-R/kwb.demeau"
   },
   {
+    "package": "kwb.dswt",
+    "url": "https://github.com/KWB-R/kwb.dswt"
+  },
+  {
     "package": "kwb.dwa.m150",
     "url": "https://github.com/KWB-R/kwb.dwa.m150"
   },
