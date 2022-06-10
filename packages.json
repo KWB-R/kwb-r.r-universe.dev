@@ -240,6 +240,10 @@
     "url": "https://github.com/KWB-R/kwb.orcid"
   },
   {
+    "package": "kwb.package",
+    "url": "https://github.com/KWB-R/kwb.package"
+  },
+  {
     "package": "kwb.pathdict",
     "url": "https://github.com/KWB-R/kwb.pathdict"
   },
