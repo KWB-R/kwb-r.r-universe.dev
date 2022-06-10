@@ -100,6 +100,10 @@
     "url": "https://github.com/KWB-R/kwb.endnote"
   },
   {
+    "package": "kwb.epanet",
+    "url": "https://github.com/KWB-R/kwb.epanet"
+  },
+  {
     "package": "kwb.event",
     "url": "https://github.com/KWB-R/kwb.event"
   },
@@ -126,6 +130,10 @@
   {
     "package": "kwb.geosalz",
     "url": "https://github.com/KWB-R/kwb.geosalz"
+  },
+  {
+    "package": "kwb.gocr",
+    "url": "https://github.com/KWB-R/kwb.gocr"
   },
   {
     "package": "kwb.graph",
