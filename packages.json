@@ -124,6 +124,10 @@
     "url": "https://github.com/KWB-R/kwb.file"
   },
   {
+    "package": "kwb.fisbroker",
+    "url": "https://github.com/KWB-R/kwb.fisbroker"
+  },
+  {
     "package": "kwb.flusshygiene",
     "url": "https://github.com/KWB-R/kwb.flusshygiene"
   },
@@ -350,6 +354,10 @@
   {
     "package": "kwb.wtaq",
     "url": "https://github.com/KWB-R/kwb.wtaq"
+  },
+  {
+    "package": "kwbGompitz",
+    "url": "https://github.com/KWB-R/kwbGompitz"
   },
   {
     "package": "pkgmeta",
