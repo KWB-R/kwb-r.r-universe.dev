@@ -40,6 +40,10 @@
     "url": "https://github.com/KWB-R/keys.lid"
   },
   {
+    "package": "kwb.1dbear",
+    "url": "https://github.com/KWB-R/kwb.1dbear"
+  },
+  {
     "package": "kwb.abimo",
     "url": "https://github.com/KWB-R/kwb.abimo"
   },
@@ -50,6 +54,10 @@
   {
     "package": "kwb.base",
     "url": "https://github.com/KWB-R/kwb.base"
+  },
+  {
+    "package": "kwb.BerlinWaterModel",
+    "url": "https://github.com/KWB-R/kwb.BerlinWaterModel"
   },
   {
     "package": "kwb.budget",
@@ -292,6 +300,10 @@
     "url": "https://github.com/KWB-R/kwb.quantum"
   },
   {
+    "package": "kwb.rabimo",
+    "url": "https://github.com/KWB-R/kwb.rabimo"
+  },
+  {
     "package": "kwb.rain",
     "url": "https://github.com/KWB-R/kwb.rain"
   },
@@ -302,6 +314,10 @@
   {
     "package": "kwb.readxl",
     "url": "https://github.com/KWB-R/kwb.readxl"
+  },
+  {
+    "package": "kwb.rect",
+    "url": "https://github.com/KWB-R/kwb.rect"
   },
   {
     "package": "kwb.resilience",
@@ -350,6 +366,10 @@
   {
     "package": "kwb.vs2dh",
     "url": "https://github.com/KWB-R/kwb.vs2dh"
+  },
+  {
+    "package": "kwb.waterParcel",
+    "url": "https://github.com/KWB-R/kwb.waterParcel"
   },
   {
     "package": "kwb.wtaq",
