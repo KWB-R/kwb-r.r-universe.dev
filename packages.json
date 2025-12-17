@@ -56,8 +56,8 @@
     "url": "https://github.com/KWB-R/kwb.base"
   },
   {
-    "package": "kwb.BerlinWaterModel",
-    "url": "https://github.com/KWB-R/kwb.BerlinWaterModel"
+    "package": "kwb.BerlinWaterModel.public",
+    "url": "https://github.com/KWB-R/kwb.BerlinWaterModel.public"
   },
   {
     "package": "kwb.budget",
