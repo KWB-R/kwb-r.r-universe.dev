@@ -72,6 +72,10 @@
     "url": "https://github.com/KWB-R/kwb.context"
   },
   {
+    "package": "kwb.CrowdWater",
+    "url": "https://github.com/KWB-R/kwb.CrowdWater"
+  },
+  {
     "package": "kwb.datetime",
     "url": "https://github.com/KWB-R/kwb.datetime"
   },
@@ -142,6 +146,10 @@
   {
     "package": "kwb.flusshygiene.app",
     "url": "https://github.com/KWB-R/kwb.flusshygiene.app"
+  },
+  {
+    "package": "kwb.geoportal",
+    "url": "https://github.com/KWB-R/kwb.geoportal"
   },
   {
     "package": "kwb.geosalz",
@@ -308,6 +316,10 @@
     "url": "https://github.com/KWB-R/kwb.rain"
   },
   {
+    "package": "kwb.raindrop",
+    "url": "https://github.com/KWB-R/kwb.raindrop"
+  },
+  {
     "package": "kwb.read",
     "url": "https://github.com/KWB-R/kwb.read"
   },
@@ -338,6 +350,10 @@
   {
     "package": "kwb.swmm",
     "url": "https://github.com/KWB-R/kwb.swmm"
+  },
+  {
+    "package": "kwb.tenders",
+    "url": "https://github.com/KWB-R/kwb.tenders"
   },
   {
     "package": "kwb.test",
