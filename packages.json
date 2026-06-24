@@ -8,6 +8,14 @@
     "url": "https://github.com/KWB-R/aquanes.report"
   },
   {
+    "package": "aws.s3",
+    "url": "https://github.com/cloudyr/aws.s3"
+  },
+  {
+    "package": "codemetar",
+    "url": "https://github.com/ropensci/codemetar"
+  },
+  {
     "package": "dwc.ar4gw",
     "url": "https://github.com/KWB-R/dwc.ar4gw"
   },
@@ -56,8 +64,8 @@
     "url": "https://github.com/KWB-R/kwb.base"
   },
   {
-    "package": "kwb.BerlinWaterModel",
-    "url": "https://github.com/KWB-R/kwb.BerlinWaterModel"
+    "package": "kwb.BerlinWaterModel.public",
+    "url": "https://github.com/KWB-R/kwb.BerlinWaterModel.public"
   },
   {
     "package": "kwb.budget",
@@ -70,6 +78,10 @@
   {
     "package": "kwb.context",
     "url": "https://github.com/KWB-R/kwb.context"
+  },
+  {
+    "package": "kwb.CrowdWater",
+    "url": "https://github.com/KWB-R/kwb.CrowdWater"
   },
   {
     "package": "kwb.datetime",
@@ -340,6 +352,10 @@
     "url": "https://github.com/KWB-R/kwb.swmm"
   },
   {
+    "package": "kwb.tenders",
+    "url": "https://github.com/KWB-R/kwb.tenders"
+  },
+  {
     "package": "kwb.test",
     "url": "https://github.com/KWB-R/kwb.test"
   },
@@ -380,8 +396,28 @@
     "url": "https://github.com/KWB-R/kwbGompitz"
   },
   {
+    "package": "odbc32",
+    "url": "https://github.com/hsonne/odbc32"
+  },
+  {
+    "package": "packrat",
+    "url": "https://github.com/rstudio/packrat"
+  },
+  {
+    "package": "pathlist",
+    "url": "https://github.com/hsonne/pathlist"
+  },
+  {
+    "package": "phreeqc",
+    "url": "https://github.com/cran/phreeqc"
+  },
+  {
     "package": "pkgmeta",
     "url": "https://github.com/KWB-R/pkgmeta"
+  },
+  {
+    "package": "pkgnet",
+    "url": "https://github.com/uptake/pkgnet"
   },
   {
     "package": "qmra.db",
@@ -392,8 +428,20 @@
     "url": "https://github.com/KWB-R/r2q"
   },
   {
+    "package": "RODBC",
+    "url": "https://github.com/cran/RODBC"
+  },
+  {
+    "package": "rorcid",
+    "url": "https://github.com/ropensci/rorcid"
+  },
+  {
     "package": "sema.berlin.utils",
     "url": "https://github.com/KWB-R/sema.berlin.utils"
+  },
+  {
+    "package": "swmmr",
+    "url": "https://github.com/hsonne/swmmr"
   },
   {
     "package": "urbanAnnualRunoff",
@@ -402,5 +450,9 @@
   {
     "package": "wasserportal",
     "url": "https://github.com/KWB-R/wasserportal"
+  },
+  {
+    "package": "wordcloud2",
+    "url": "https://github.com/Lchiffon/wordcloud2"
   }
 ]
