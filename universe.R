@@ -44,9 +44,11 @@ pkg_name <- basename(missing)
 new_entries <- data.frame(
   package = pkg_name,
   url     = paste0("https://github.com/", missing),
+  noindex = TRUE,
   stringsAsFactors = FALSE
 )
 
+kwb$noindex = NA
 merged <- rbind(kwb, new_entries)
 merged <- merged[!duplicated(tolower(merged$url)), ]
 merged <- merged[order(tolower(merged$package)), ]   # alphabetisch
