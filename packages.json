@@ -9,11 +9,13 @@
   },
   {
     "package": "aws.s3",
-    "url": "https://github.com/cloudyr/aws.s3"
+    "url": "https://github.com/cloudyr/aws.s3",
+    "noindex": true
   },
   {
     "package": "codemetar",
-    "url": "https://github.com/ropensci/codemetar"
+    "url": "https://github.com/ropensci/codemetar",
+    "noindex": true
   },
   {
     "package": "dwc.ar4gw",
@@ -22,6 +24,10 @@
   {
     "package": "dwc.wells",
     "url": "https://github.com/KWB-R/dwc.wells"
+  },
+  {
+    "package": "ewex",
+    "url": "https://github.com/KWB-R/ewex"
   },
   {
     "package": "fakin.path.app",
@@ -42,6 +48,10 @@
   {
     "package": "ibathwater",
     "url": "https://github.com/KWB-R/ibathwater"
+  },
+  {
+    "package": "iole",
+    "url": "https://github.com/KWB-R/iole"
   },
   {
     "package": "keys.lid",
@@ -300,6 +310,10 @@
     "url": "https://github.com/KWB-R/kwb.prep"
   },
   {
+    "package": "kwb.promisces-emission-model",
+    "url": "https://github.com/KWB-R/kwb.promisces-emission-model"
+  },
+  {
     "package": "kwb.pubs",
     "url": "https://github.com/KWB-R/kwb.pubs"
   },
@@ -326,6 +340,10 @@
   {
     "package": "kwb.raindrop",
     "url": "https://github.com/KWB-R/kwb.raindrop"
+  },
+  {
+    "package": "kwb.raindrop.binaries",
+    "url": "https://github.com/KWB-R/kwb.raindrop.binaries"
   },
   {
     "package": "kwb.read",
@@ -404,20 +422,28 @@
     "url": "https://github.com/KWB-R/kwbGompitz"
   },
   {
+    "package": "lakeRS",
+    "url": "https://github.com/KWB-R/lakeRS"
+  },
+  {
     "package": "odbc32",
-    "url": "https://github.com/hsonne/odbc32"
+    "url": "https://github.com/hsonne/odbc32",
+    "noindex": true
   },
   {
     "package": "packrat",
-    "url": "https://github.com/rstudio/packrat"
+    "url": "https://github.com/rstudio/packrat",
+    "noindex": true
   },
   {
     "package": "pathlist",
-    "url": "https://github.com/hsonne/pathlist"
+    "url": "https://github.com/hsonne/pathlist",
+    "noindex": true
   },
   {
     "package": "phreeqc",
-    "url": "https://github.com/cran/phreeqc"
+    "url": "https://github.com/cran/phreeqc",
+    "noindex": true
   },
   {
     "package": "pkgmeta",
@@ -425,7 +451,8 @@
   },
   {
     "package": "pkgnet",
-    "url": "https://github.com/uptake/pkgnet"
+    "url": "https://github.com/uptake/pkgnet",
+    "noindex": true
   },
   {
     "package": "qmra.db",
@@ -437,11 +464,13 @@
   },
   {
     "package": "RODBC",
-    "url": "https://github.com/cran/RODBC"
+    "url": "https://github.com/cran/RODBC",
+    "noindex": true
   },
   {
     "package": "rorcid",
-    "url": "https://github.com/ropensci/rorcid"
+    "url": "https://github.com/ropensci/rorcid",
+    "noindex": true
   },
   {
     "package": "sema.berlin.utils",
@@ -449,7 +478,8 @@
   },
   {
     "package": "swmmr",
-    "url": "https://github.com/hsonne/swmmr"
+    "url": "https://github.com/hsonne/swmmr",
+    "noindex": true
   },
   {
     "package": "urbanAnnualRunoff",
@@ -461,6 +491,7 @@
   },
   {
     "package": "wordcloud2",
-    "url": "https://github.com/Lchiffon/wordcloud2"
+    "url": "https://github.com/Lchiffon/wordcloud2",
+    "noindex": true
   }
 ]
